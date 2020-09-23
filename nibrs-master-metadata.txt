@@ -1,0 +1,11 @@
+Master FILE	KEY	MIN_YEAR	S3_PREFIX		S3_LOC
+Arson	arson	1985	/arson/arson-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/arson/arson-
+Arrests	asr	1985	/asr/asr-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/asr/asr-
+Cargo Theft	cargo-theft	2012	/cargo-theft/cargo-theft-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/cargo-theft/cargo-theft-
+Hate Crime	hate-crime	1991	/hate-crime/hate-crime-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/hate-crime/hate-crime-
+Human Trafficking	human-trafficking	2013	/human-trafficking/human-trafficking-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/human-trafficking/human-trafficking-
+Police Employee	pe	1991	/pe/pe-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/pe/pe-
+NIBRS	nibrs	1991	/nibrs/nibrs-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/nibrs/nibrs-
+Return A	reta	1985	/reta/reta-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/reta/reta-
+Supplementary Homicide Report	shr	1985	/shr/shr-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/shr/shr-
+Supplement to Return A	supp	1985	/supp/supp-		http://s3-us-gov-west-1.amazonaws.com/cg-d4b776d0-d898-4153-90c8-8336f86bdfec/masters/supp/supp-
